@@ -16,22 +16,7 @@
 	},
 	"autoload": {
 		"classmap": [
-		"Client.php",
-		"ClientException.php",
-		"Command.php",
-		"CommandException.php",
-		"ConnectionException.php",
-		"Exception.php",
-		"HTTPClient.php",
-		"InvalidCommandException.php",
-		"InvalidNamespaceException.php",
-		"Namespace.php",
-		"RequestException.php",
-  	"Response.php",		
-  	"ResponseException.php",		
-  	"Server.php",		
-    "ServerException.php",		
-    "TCPClient.php"	
+		"rpc"	
 		]
 	}
 }
