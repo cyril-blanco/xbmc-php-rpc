@@ -17,6 +17,7 @@
 	"autoload": {
 		"classmap": [
 		"rpc"	
-		]
+		],
+		"psr-0": { "Chk\\Xbmcrpc" : "rpc/" }
 	}
 }
